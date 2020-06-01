@@ -13,7 +13,7 @@
  - web Developer
 
 
-## WEBSITE FOR FREE & FREEMIUM DESIGN RESOURCE
+## DESIGN RESOURCE (UI & UX) FREE & FREEMIUM DESIGN RESOURCE
 
 - UI8 (https://ui8.net/)
 - GRAPHICS BURGER (https://graphicburger.com/)
