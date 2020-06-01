@@ -1,4 +1,4 @@
-# UseFull Website For Front-End Devs
+# UseFull Websites For Front-End Devs
 
 
 ## Chrome Extesntion for Front-end devs
