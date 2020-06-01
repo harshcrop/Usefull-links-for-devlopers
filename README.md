@@ -11,6 +11,8 @@
  - Colour Contract Checker
  - CSS Peeper
  - web Developer
+ - Dark Reader 
+ - HTTPS Everywhere
 
 
 ## DESIGN RESOURCE (UI & UX) FREE & FREEMIUM DESIGN RESOURCE
