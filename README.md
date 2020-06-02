@@ -45,6 +45,14 @@
 - Charco by Karthk Srinivas
 - Ouch by icons8
  
+## Tools For Testing Different Design Variations
+
+- vwo (https://vwo.com/)
+- Optimizely (https://www.optimizely.com/)
+- Google Optimize (https://optimize.google.com/optimize/home/)
+- Adobe Target 
+- freshmarketer
+- carzy Egg
  
 
 
