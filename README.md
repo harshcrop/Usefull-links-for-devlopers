@@ -3,9 +3,9 @@
 
 ## Chrome Extesntion for Front-end devs
 
- - whatFont (shorturl.at/ISTX7)
- - Colorpick Eyedropper (shorturl.at/sEFMO)
- - JSON Viewer (shorturl.at/npELO)
+ - whatFont 
+ - Colorpick Eyedropper
+ - JSON Viewer
  - Responsive Web Design Tester
  - Wappalyzer
  - Colour Contract Checker
