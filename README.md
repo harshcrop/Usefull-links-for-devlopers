@@ -3,9 +3,9 @@
 
 ## Chrome Extesntion for Front-end devs
 
- - whatFont
- - Colorpick Eyedropper
- - JSON Viewer
+ - whatFont (shorturl.at/ISTX7)
+ - Colorpick Eyedropper (shorturl.at/sEFMO)
+ - JSON Viewer (shorturl.at/npELO)
  - Responsive Web Design Tester
  - Wappalyzer
  - Colour Contract Checker
@@ -20,7 +20,7 @@
 - UI8 (https://ui8.net/)
 - GRAPHICS BURGER (https://graphicburger.com/)
 - MOUSECRAFTED (https://mousecrafted.com/)
-- UPLABS (httts://uplabs.com/)
+- UPLABS (https://uplabs.com/)
 - LSTORE GRAPHICS (https://ls.graphics/)
 - PAATTERNS (https://paaatterns.net/)
 
@@ -37,9 +37,9 @@
  
 ## Illustartions 
 
-- Humaaans
-- UnDraw 
-- Absurd illustations
+- Humaaans (https://www.humaaans.com/)
+- UnDraw (https://undraw.co/)
+- Absurd illustations (https://absurd.design/)
 - Stubborn
 - whoosh! by ls.graphics
 - Charco by Karthk Srinivas
