@@ -26,12 +26,12 @@
 
 ## Design Resource
 
- - Storytale (storytale.io)
+ - Storytale (https://storytale.io)
  - Feather Icons
- - Happy Hues (happyhues.co)
- - ls.graphics (ls/graphics/free-mockups)
- - UX Collective (uxdesign.cc)
- - Webflow (webslow.com)
+ - Happy Hues (https://happyhues.co)
+ - ls.graphics (https://ls/graphics/free-mockups)
+ - UX Collective (https://uxdesign.cc)
+ - Webflow (https://webslow.com)
 
 
 ## Fonts
