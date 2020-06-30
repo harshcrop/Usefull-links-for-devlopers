@@ -24,6 +24,15 @@
 - LSTORE GRAPHICS (https://ls.graphics/)
 - PAATTERNS (https://paaatterns.net/)
 
+## Design Resource
+
+ - Storytale (storytale.io)
+ - Feather Icons
+ - Happy Hues (happyhues.co)
+ - ls.graphics (ls/graphics/free-mockups)
+ - UX Collective (uxdesign.cc)
+ - Webflow (webslow.com)
+
 
 ## Fonts
 
