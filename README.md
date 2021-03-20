@@ -1,4 +1,4 @@
-# UseFull Websites For Devs
+# UseFull links For Developers
 
 
 ## Chrome Extesntion for Front-end devs
@@ -63,6 +63,14 @@
 - freshmarketer
 - carzy Egg
  
+ 
+ ## Usefull links
+
+- https://perf.link/
+- https://regexper.com/
+- https://transform.tools/
+- https://rxresu.me/ 
+- https://icones.js.org/
 
 
 
